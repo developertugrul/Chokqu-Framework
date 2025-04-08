@@ -1,0 +1,13 @@
+[package]
+name = "chokqu"
+version = "0.1.0"
+edition = "2024"
+
+authors = ["Sizin Adınız <info@chokqu.com>"]
+description = "Sevgi ve özenle geliştirilmekte olan bir Rust web framework'u."
+license = "MIT"
+homepage = "https://chokqu.com/frameworks/rust/chokqu"
+repository = "https://github.com/developertugrul/chokqu-framework.git"
+documentation = "https://docs.rs/chokqu"
+
+[dependencies]
