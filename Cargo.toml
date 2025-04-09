@@ -9,6 +9,8 @@ license = "MIT"
 homepage = "https://chokqu.com/frameworks/rust/chokqu"
 repository = "https://github.com/developertugrul/chokqu-framework.git"
 documentation = "https://docs.rs/chokqu"
+keywords = ["rust", "web", "framework", "chokqu", "chokqu-framework"]
+categories = ["web-programming"]
 
 [dependencies]
 hyper = "1.6.0"
